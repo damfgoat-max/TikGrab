@@ -1,0 +1,5 @@
+build/
+Payload/
+*.ipa
+TikGrab.xcodeproj/
+.DS_Store
